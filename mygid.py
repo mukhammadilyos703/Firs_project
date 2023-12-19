@@ -6,4 +6,4 @@ class Talaba:
     def getName(self):
         return self.lastname + self.firstname
 
-t1 = Talaba("ali", "Aliev", 18)
+t2 = Talaba("ali", "Aliev", 18)
